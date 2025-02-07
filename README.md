@@ -33,9 +33,11 @@ Run the script:
 ```bash
 python ocr_text_detection.py
 ```
-| Detected Text  | Detected Text  | Detected Text  |
-|---|---|---|
-| ![Screenshot 1](https://github.com/user-attachments/assets/3a122ec7-63e7-408a-896b-fc9d34cd37c4) | ![Screenshot 2](https://github.com/user-attachments/assets/8112b06d-7753-47cd-8dad-ed2cd844d38c) | ![Screenshot 3](https://github.com/user-attachments/assets/109cac88-ac62-4ef3-8b7b-3e31e4451125) |
-| Annotated Image | Annotated Image | Annotated Image |
+| Detected Text  | Detected Text  | Detected Text  | Detected Text |
+|---|---|---|---|
+| ![Annotated Image 1](https://github.com/user-attachments/assets/3a122ec7-63e7-408a-896b-fc9d34cd37c4) | ![Annotated Image 2](https://github.com/user-attachments/assets/8112b06d-7753-47cd-8dad-ed2cd844d38c) | ![Annotated Image 3](https://github.com/user-attachments/assets/109cac88-ac62-4ef3-8b7b-3e31e4451125) | ![Annotated Image 4](https://github.com/user-attachments/assets/654d9c56-548f-4d97-85db-f1c1bef7fdf7) |
+| Annotated Image | Annotated Image | Annotated Image | Grouping Texts |
+
+
 
 
