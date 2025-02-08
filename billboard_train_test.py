@@ -53,7 +53,7 @@ train: {os.path.join(dataset_path, 'images/train')}
 val: {os.path.join(dataset_path, 'images/test')}
 
 nc: 1
-names: ['your_class_name']
+names: "billboard"
 """
 
 with open(os.path.join(dataset_path, 'detect.yaml'), 'w') as f:
